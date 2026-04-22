@@ -14,3 +14,4 @@
 - fix: fix a small wording issue
 - fix: clarify the setup steps
 - fix: fix a small wording issue
+- fix: clarify the setup steps
